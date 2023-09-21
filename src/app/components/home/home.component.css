@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  .logo {
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 60px;
+  }
+  
+  
+  .welcome {
+    font-family:serif;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .menu-button {
+    display: flex;
+    align-items: center; /* Center text vertically */
+    justify-content: center; /* Center text horizontally */
+    margin-top: 1%; /* Adjust margins as needed */
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%; /* Occupy full width */
+    text-decoration: none; /* Remove underline */
+  }
+  .icon {
+    margin-right: 10px;
+  }
+  .buttom{
+    height: 70px;
+        margin-bottom: 1px !important;
+    border-radius: 11px !important;
+    background-color: #fff !important;
+    border-style: groove !important;
+    border-color: #fff !important; 
+    width: 35rem !important;
+  }

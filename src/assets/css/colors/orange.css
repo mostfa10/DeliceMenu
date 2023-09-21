@@ -1,0 +1,139 @@
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #999999;
+}
+.main-menu .navbar-default .navbar-nav .active a{
+	color: #999999;
+}
+.main-menu nav li a::after {
+    background: #999999;
+}
+.typer{
+	color: #999999 !important;
+}
+.banner-text h2{
+	color: #999999
+}
+.book-btn a{
+	background: #999999;
+	border: 3px solid #999999;
+}
+.book-btn a:hover{
+	border: 3px solid #f04900;
+}
+.hvr-underline-from-center::before{
+	background:#f04900;
+}
+.block-title{
+	color: #999999;
+}
+.item-type-zoom .item-hover:hover::before{
+	background: rgba(231, 91, 30, 0.5);
+}
+.special-box .owl-theme .owl-controls .owl-page.active span{
+	background: #999999;
+}
+.offer-item div h3{
+	color: rgb(0, 0, 0);
+	padding-top: 10px;
+}
+.tab-menu .is-active{
+	background-color: rgb(0 0 0 /100%);
+	border-radius: 5%;
+	border-color: #000000;
+}
+.tab-menu .is-active .imgmenu {
+	box-shadow: 2px 2px 7px 1px #c3c3c3;
+}
+.tab-menu .slick-arrow.slick-prev{
+	display: none !important;
+}
+.tab-menu .slick-arrow.slick-next{
+	display: none !important;
+}
+
+.offer-item .offer-price{
+	border: 4px double #434242;
+}
+.sf-team:hover .text-col{
+	background-color: #999999;
+}
+.gal-item a::after{
+	background-color: rgba(231, 91, 30, 0.75);
+}
+.overlay i:hover{
+	border: 1px solid #999999;
+	color: #999999;
+}
+.blog-btn-v a{
+	background: #999999;
+	border: 3px solid #999999;
+}
+.book-srv a{
+	background: #999999;
+	border: 3px solid #999999;
+}
+
+.panel-pricing .panel-heading{
+	background: #999999;
+}
+.panel-pricing{
+	border: 1px solid #999999;
+}
+.panel-body p strong span{
+	color: #999999;
+}
+.pricing-main .panel-footer a{
+	background: #999999;
+	border: 3px solid #999999;
+}
+.pricing-main .panel-footer a:hover{
+	border: 3px solid #f04900;
+}
+
+.reserve-book-btn button{
+	background: #999999;
+	border: 3px solid #999999;
+}
+.reserve-book-btn button:hover a{
+	color:#000000;
+}
+.footer-news form a{
+	background: #999999;
+}
+.footer-news form a:hover{
+	border: 2px dotted #999999;
+}
+.footer-box-a h3{
+	color: #999999;
+}
+.footer-box-b h3{
+	color: #999999;
+}
+.footer-box-c h3{
+	color: #999999;
+}
+.footer-box-d h3{
+	color: #999999;
+}
+.footer-box-c p a:hover{
+	color: #999999;
+}
+.footer-box-b ul li a:hover{
+	color: #999999;
+}
+
+.footer-box .socials-box a:hover .social-circle-border{
+	color: #999999;
+}
+
+.footer-box-c p i{
+	color: #999999;
+}
+
+.copyright-main{
+	background: #999999;
+}
+
+#color-panel a.panel-button:hover{
+	color: #999999;		
+}
